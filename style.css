@@ -1,0 +1,80 @@
+body{
+	background-color: #2b3137 !important;
+	
+}
+
+.form-group{
+	width: 350px;
+	margin: 30px;
+}
+.form-group p{
+	width: 400px;
+}
+.login{
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	display: inline-block;
+	/*position: absolute;
+	top: 80px;
+	right: 80px;*/
+	float: right;
+	margin-top: -213px;
+	margin-right: 200px;
+	background-color: white;
+	border-radius: 3px;
+
+
+}
+p{
+	
+}
+
+h1 {
+	color: 	white !important;
+}
+
+h1{
+	width: 190px;
+	
+}
+p{
+	width: 350px;
+	line-height: 30px;	
+	color: 	#a2adb2;
+}
+.icon{
+	background-color: white;
+	font-size: 25px;
+	margin-left: 100px;
+
+}
+
+.btn.btn-success{
+	padding: 10px 50px !important;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white !important;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #9d9d9d !important;
+}
+
+/*@media screen and (max-width: 400px);
+{
+	p{
+          margin-left: 20px;
+	}
+}*/
+.inp{
+	background-color: #3f4448 !important;
+	border: 1px solid #3f4448 !important;
+	margin-left: 180px;
+	margin-right: -180px;
+}
+.sign{
+	margin-left: 180px !important;
+}
+.sign li{
+	margin: 0 -12px;
+}
